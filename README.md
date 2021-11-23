@@ -5,4 +5,4 @@ To run the Virtual back end you'll need to install json-server via npm or yarn t
 
 "server": "json-server --watch db.json --port 5000 "
 
-Run "npm server" or "yarn server". The app should work swimmingly!s
+Run "npm server" or "yarn server". The app should work swimmingly!
